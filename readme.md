@@ -1,7 +1,7 @@
 # 中国地图
 
 收录各个版本的正确的中国地图，为广大媒体、个人提供可信赖的中国地图。欢迎补充！
-
+[快速识别问题地图](http://www.mnr.gov.cn/dt/ywbb/201908/t20190802_2451218.html)
 ![](https://markdown-pic-blackboxo.oss-cn-shanghai.aliyuncs.com/20200322200501.png)
 
 
